@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paula</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulasierraa&label=Profile%20views&color=e86da5&style=flat" alt="paulasierraa" /> </p>
 
 - 🌱 I’m currently learning **Angular, Bootstrap**
 
@@ -18,3 +17,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulasierraa&show_icons=true&theme=dark&locale=en&layout=compact" alt="paulasierraa" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulasierraa&label=Profile%20views&color=e86da5&style=flat" alt="paulasierraa" /> </p>
+
