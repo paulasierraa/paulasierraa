@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Colombia</h3>
 
 
-- 🌱 I’m currently learning **Angular, Bootstrap**
+- 🌱 I’m currently learning **Angular, .Net**
 
 - 👯 I’m looking to collaborate on **G-Pso**
 
