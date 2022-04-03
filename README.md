@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Angular, .Net**
 
-- 👯 I’m looking to collaborate on **G-Pso**
 
 
 <h3 align="left">Languages and Tools:</h3>
