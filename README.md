@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paula</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<h3 align="center">I love to drink coffee ☕ and code 👩‍💻</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
